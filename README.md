@@ -1,2 +1,1 @@
-# Java_Developer
- Java Developer rezume
+# Java Developer Resume on Java with AWT & Swing libraries
