@@ -22,7 +22,7 @@
         <packagesPath>./target</packagesPath>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <com.google.guava.version>27.1-jre</com.google.guava.version>
+        <com.google.guava.version>29.0-jre</com.google.guava.version>
         <plugin.jar.version>3.1.2</plugin.jar.version>
         <plugin.dependency.version>3.1.1</plugin.dependency.version>
         <plugin.resources.version>2.7</plugin.resources.version>
